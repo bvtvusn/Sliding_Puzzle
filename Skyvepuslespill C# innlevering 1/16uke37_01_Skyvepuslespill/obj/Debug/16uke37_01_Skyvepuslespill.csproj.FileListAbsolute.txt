@@ -1,0 +1,37 @@
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\16uke37_01_Skyvepuslespill\16uke37_01_Skyvepuslespill\bin\Debug\16uke37_01_Skyvepuslespill.exe.config
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\16uke37_01_Skyvepuslespill\16uke37_01_Skyvepuslespill\bin\Debug\16uke37_01_Skyvepuslespill.exe
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\16uke37_01_Skyvepuslespill\16uke37_01_Skyvepuslespill\bin\Debug\16uke37_01_Skyvepuslespill.pdb
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\16uke37_01_Skyvepuslespill\16uke37_01_Skyvepuslespill\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\16uke37_01_Skyvepuslespill\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.csproj.GenerateResource.Cache
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\16uke37_01_Skyvepuslespill\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.exe
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\16uke37_01_Skyvepuslespill\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.pdb
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\16uke37_01_Skyvepuslespill\16uke37_01_Skyvepuslespill\obj\Debug\WindowsFormsApplication1.game.resources
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\16uke37_01_Skyvepuslespill\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.csprojResolveAssemblyReference.cache
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\16uke37_01_Skyvepuslespill\16uke37_01_Skyvepuslespill\obj\Debug\WindowsFormsApplication1.frmMenu.resources
+C:\Users\bvtv\Desktop\Tveraaen, Bjørn Vegard-Arbeidskrav 1\16uke37_01_Skyvepuslespill\bin\Debug\16uke37_01_Skyvepuslespill.exe.config
+C:\Users\bvtv\Desktop\Tveraaen, Bjørn Vegard-Arbeidskrav 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.exe
+C:\Users\bvtv\Desktop\Tveraaen, Bjørn Vegard-Arbeidskrav 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.pdb
+C:\Users\bvtv\Desktop\Tveraaen, Bjørn Vegard-Arbeidskrav 1\16uke37_01_Skyvepuslespill\bin\Debug\16uke37_01_Skyvepuslespill.exe
+C:\Users\bvtv\Desktop\Tveraaen, Bjørn Vegard-Arbeidskrav 1\16uke37_01_Skyvepuslespill\bin\Debug\16uke37_01_Skyvepuslespill.pdb
+C:\Users\bvtv\Desktop\Tveraaen, Bjørn Vegard-Arbeidskrav 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.csprojResolveAssemblyReference.cache
+C:\Users\bvtv\Desktop\Tveraaen, Bjørn Vegard-Arbeidskrav 1\16uke37_01_Skyvepuslespill\obj\Debug\WindowsFormsApplication1.frmMenu.resources
+C:\Users\bvtv\Desktop\Tveraaen, Bjørn Vegard-Arbeidskrav 1\16uke37_01_Skyvepuslespill\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bvtv\Desktop\Tveraaen, Bjørn Vegard-Arbeidskrav 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.csproj.GenerateResource.Cache
+C:\Users\bvtv\Desktop\Tveraaen, Bjørn Vegard-Arbeidskrav 1\16uke37_01_Skyvepuslespill\obj\Debug\WindowsFormsApplication1.frmGame.resources
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\bin\Debug\16uke37_01_Skyvepuslespill.exe.config
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.exe
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.pdb
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering h16\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\bin\Debug\16uke37_01_Skyvepuslespill.exe.config
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering h16\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.exe
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering h16\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.pdb
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\bin\Debug\16uke37_01_Skyvepuslespill.exe.config
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\bin\Debug\16uke37_01_Skyvepuslespill.exe
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\bin\Debug\16uke37_01_Skyvepuslespill.pdb
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.csprojAssemblyReference.cache
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\obj\Debug\WindowsFormsApplication1.frmGame.resources
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\obj\Debug\WindowsFormsApplication1.frmMenu.resources
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.csproj.GenerateResource.cache
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.csproj.CoreCompileInputs.cache
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.exe
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Skyvepuslespill C# innlevering 1\16uke37_01_Skyvepuslespill\obj\Debug\16uke37_01_Skyvepuslespill.pdb
